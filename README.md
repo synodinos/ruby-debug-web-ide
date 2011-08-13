@@ -20,6 +20,7 @@ available at public/ruby.
   7. `front.js` renders data in a table.
 
 
+
 ![Image](http://github.com/synodinos/ruby-debug-web-ide/raw/master/ruby-debug-web-ide-splash.jpg)
 
 ## Known issues
@@ -32,9 +33,9 @@ This is just a proof-of-concept and has several issues like racing-conditions, p
 
 ## Tested configuration
 * Node.js v0.5.0-pre
-    * Socket.io@0.7.7
+    * Socket.io 0.7.7
     * Express 2.4.3
-    * libxmljs@0.4.2
+    * libxmljs 0.4.2
 * Ruby 1.8.7
     * ruby-debug 0.10.4
     * ruby-debug-base 0.10.4
