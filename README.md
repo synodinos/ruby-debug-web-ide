@@ -45,3 +45,7 @@ This is just a proof-of-concept and has several issues like racing-conditions, p
     * Underscore.js 1.1.7
 * Mac OS X 10.6.8
 
+## Credits
+* [Werner Schuster](https://twitter.com/#!/murphee), for bringing rdebug-ide to my attention.
+* [Martin Krauskopf](http://rubygems.org/profiles/mkrauskopf), rdebug-ide committer for his tip.
+
