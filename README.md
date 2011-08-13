@@ -19,6 +19,9 @@ available at public/ruby.
     - Terminates debugger process.
   7. `front.js` renders data in a table.
 
+
+![Image](http://github.com/synodinos/ruby-debug-web-ide/raw/master/ruby-debug-web-ide-splash.jpg)
+
 ## Known issues
 This is just a proof-of-concept and has several issues like racing-conditions, poor scalability,
  garbage-processes, etc. etc.
